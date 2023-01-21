@@ -6,8 +6,23 @@ h1 {
     
 }
 
-ul {
-    color: black;
+img {
+    height: auto;
+    width: 500px;
+}
+
+.list,
+h3,
+p {
     font-family: Nunito, sans-serif;
-    font-size: 24px;
+    font-size: 18px;
+}
+
+.list,
+p {
+    font-weight: 300;
+}
+
+h3 {
+    text-align: center;
 }
